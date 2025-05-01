@@ -19,3 +19,8 @@
 15.  == can return true for different types if the values are the same, === only does it if the types and values are the same.
 
 17. [2, 4, 6], doSomething doubles the value and modify array calls a method (in this case doSomething) on the array.
+
+19. 1
+    4
+    3
+    2
