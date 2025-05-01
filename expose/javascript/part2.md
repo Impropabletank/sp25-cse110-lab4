@@ -11,3 +11,9 @@
 11. [50, 100, 150], the same output of discounted money.
 
 12. a. student.name; b. student['Grad Year']; c. student.greeting(); d. student['Favorite Teacher'].name; e. student.courseLoad[0];
+
+13. a. 32 b. 1 c. 3 d. 3null e. 4 f. 0 g. 3undefined h. NaN
+
+14. a. true b. false c. true d. false e. false f. true
+
+15.  == can return true for different types if the values are the same, === only does it if the types and values are the same.
