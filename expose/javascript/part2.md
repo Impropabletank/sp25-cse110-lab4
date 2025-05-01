@@ -9,3 +9,5 @@
 9. ReferenceError, i is only defined for the function.
 10. 3, the length doesn't change.
 11. [50, 100, 150], the same output of discounted money.
+
+12. a. student.name; b. student['Grad Year']; c. student.greeting(); d. student['Favorite Teacher'].name; e. student.courseLoad[0];
